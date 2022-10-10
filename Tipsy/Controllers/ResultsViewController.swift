@@ -28,7 +28,7 @@ class ResultsViewController: UIViewController {
         settingsLabel.text = finalText
     }
     
-    @IBAction func recalculatePressed(_ sender: UIButton) {xds
+    @IBAction func recalculatePressed(_ sender: UIButton) {
         dismiss(animated: true)
     }
 
